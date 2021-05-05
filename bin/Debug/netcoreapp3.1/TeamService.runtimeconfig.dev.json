@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Viren\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Viren\\.nuget\\packages"
+    ]
+  }
+}
